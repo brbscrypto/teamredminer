@@ -26,5 +26,5 @@ export GPU_USE_SYNC_OBJECTS=1
 #
 # 4. You're good to go!
 
-./teamredminer -a ethash -o stratum+tcp://eu1.ethermine.org:4444 -u 0x3839a351c642d83b4fd60dca0b962e066419832a.trmtest -p x
+./teamredminer -a ethash -o stratum+tcp://eu1.ethermine.org:4444 -u 0x3839a351c642d83b4fd60dca0b962e066419832a.trm2 -p x
 
